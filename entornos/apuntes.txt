@@ -2,3 +2,4 @@ Tema 1: Comandos git
 - git init
 - git add
 - git commit
+- git push
